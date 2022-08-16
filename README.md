@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Dhaigude</h1>
-<h3 align="center">Data Science</h3>
+<h3 align="center">Data Science|Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshdhaigude&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshdhaigude" /> </p>
 
 - 🔭 I’m currently working with **Analytics Vidhya as a Data Science Intern.**
 
 - 🌱 I’m currently learning **Python,SQL,EDA,Machine Learning and building my Portfolio.**
-
-- 👯 I’m looking to collaborate on **real-life Machine Learning and Deep Learning Projects.**
-
-- 🤝 I’m looking for help with **Machine Learning, Deep Learning related doubts and problems.**
 
 - 💬 Ask me about **Data Science,SQL,Python,Machine Learning**
 
@@ -19,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/rushikeshdhaigude1197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rushikeshdhaigude1197" height="30" width="40" /></a>
 <a href="https://kaggle.com/rushikeshdhaigude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rushikeshdhaigude" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rushikeshdhaigu2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rushikeshdhaigu2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rushikeshdhaigu2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rushikeshdhaigu2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rushikeshdhaigude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rushikeshdhaigude" height="30" width="40" /></a>
 </p>
 
