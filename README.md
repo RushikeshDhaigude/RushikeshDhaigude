@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshdhaigude&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshdhaigude" /> </p>
 
-- 🔭 I’m currently working with **Analytics Vidhya as a Data Science Intern.**
+- 🔭 I’m currently working with **AmberStudent as a Data Analyst.**
 
-- 🌱 I’m currently learning **Python,SQL,EDA,Machine Learning and building my Portfolio.**
-
-- 💬 Ask me about **Data Science,SQL,Python,Machine Learning**
+- 🌱 I’m currently learning **Machine Learning,Deep Learning,NLP and building my Portfolio.**
 
 - 📫 How to reach me **rushikeshdhaigude6@gmail.com**
 
