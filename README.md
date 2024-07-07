@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Dhaigude</h1>
-<h3 align="center">Data Science | Machine Learning | Deep Learning |Generative AI</h3>
+<h3 align="center">Data Science | Machine Learning | Deep Learning | Generative AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshdhaigude&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshdhaigude" /> </p>
 
